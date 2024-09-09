@@ -1,3 +1,9 @@
 # Entrevistas
 *.mp3
 *.mp4
+
+# Livro de estudos do ABA
+ESTRATEGIAS-DA-ABA-PARA-PESSOAS-COM-TEA.pdf
+
+# Arquivos Obsidian
+**/workspace.json

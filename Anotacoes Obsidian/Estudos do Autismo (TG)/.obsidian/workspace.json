@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c497bd3b8e0083c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABA.md",
+                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABA.md",
+                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABA.md"
+                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ec69994d94f604e",
+  "active": "7c497bd3b8e0083c",
   "lastOpenFiles": [
+    "ABA.md",
+    "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
     "Economia De Fichas.md",
     "PECS.md",
-    "ABA.md",
     "PECS_Exemplo.png",
     "Pasted image 20240825184338.png",
     "Welcome.md"
