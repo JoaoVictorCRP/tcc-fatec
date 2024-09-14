@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c497bd3b8e0083c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
+                "file": "Livro - Estrategias ABA para Pessoas Com TEA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
+                "file": "Livro - Estrategias ABA para Pessoas Com TEA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
+                "file": "Livro - Estrategias ABA para Pessoas Com TEA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md"
+                "file": "Livro - Estrategias ABA para Pessoas Com TEA.md"
               }
             }
           }
@@ -171,11 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c497bd3b8e0083c",
+  "active": "2ec69994d94f604e",
   "lastOpenFiles": [
+    "Pasted image 20240914174335.png",
     "ABA.md",
-    "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
+    "Livro - Estrategias ABA para Pessoas Com TEA.md",
+    "Untitled.md",
+    "Pasted image 20240914172224.png",
     "Economia De Fichas.md",
+    "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
     "PECS.md",
     "PECS_Exemplo.png",
     "Pasted image 20240825184338.png",
