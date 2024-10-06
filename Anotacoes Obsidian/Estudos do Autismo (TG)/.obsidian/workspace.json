@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "52469009c4e7b515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livro - Estregias ABA para Pessoas com TEA/Capítulo 3 - Esquemas de reforçamento e uso de economia de fichas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Livro - Estregias ABA para Pessoas com TEA/Capítulo 3 - Esquemas de reforçamento e uso de economia de fichas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Livro - Estregias ABA para Pessoas com TEA/Capítulo 3 - Esquemas de reforçamento e uso de economia de fichas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Livro - Estregias ABA para Pessoas com TEA/Capítulo 3 - Esquemas de reforçamento e uso de economia de fichas.md"
+              }
             }
           }
         ]
@@ -138,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e782929f9e457ce2",
+  "active": "52469009c4e7b515",
   "lastOpenFiles": [
+    "Livro - Estregias ABA para Pessoas com TEA/Capítulo 2 - Avaliação de Reforçadores.md",
+    "Livro - Estregias ABA para Pessoas com TEA/Capítulo 3 - Esquemas de reforçamento e uso de economia de fichas.md",
+    "Livro - Estregias ABA para Pessoas com TEA/Capítulo 1 - Elaborando Curriculo Individualizado.md",
     "Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -148,7 +168,6 @@
     "Livro - Estregias ABA para Pessoas com TEA/3.md",
     "Livro - Estregias ABA para Pessoas com TEA/2.md",
     "Livro - Estregias ABA para Pessoas com TEA/1.md",
-    "Livro - Estregias ABA para Pessoas com TEA/Capítulo 1 - Elaborando Curriculo Individualizado.md",
     "ABA.md",
     "2024-09-15.md",
     "Livro - Estregias ABA para Pessoas com TEA/Prints/ColetaDeDadosIntervencao.png",
@@ -156,7 +175,6 @@
     "Livro - Estregias ABA para Pessoas com TEA/Prints",
     "Livro - Estregias ABA para Pessoas com TEA",
     "PECS.md",
-    "Untitled.md",
     "Economia De Fichas.md",
     "Estratégias da Análise Comportamento Aplicada para Pessoas com TEA.md",
     "PECS_Exemplo.png",
