@@ -2,6 +2,9 @@
 *.mp3
 *.mp4
 
+# Docx
+*.docx
+
 # Livro de estudos do ABA
 ESTRATEGIAS-DA-ABA-PARA-PESSOAS-COM-TEA.pdf
 

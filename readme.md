@@ -9,12 +9,12 @@ Este é o repositório do nosso TG/TCC, onde buscamos desenvolver uma solução 
 - [x] BPMN
 - [x] Documentação dos requisitos
 - [x] Diagrama de caso de uso
-- [ ] EAP
-- [ ] Documento de caso de uso
+- [x] EAP
+- [x] Documento de caso de uso
 - [ ] Diagrama de de classes
-- [ ] TAP
+- [x] TAP
 - [ ] Diagrama de atividade
-- [ ] Diagrama de máquina de estado
+- [x] Diagrama de máquina de estado
 - [ ] Diagrama de sequência
 - [ ] Prototipação de telas
 - [ ] Matriz de rastreabilidade
