@@ -11,13 +11,13 @@ Este é o repositório do nosso TG/TCC, onde buscamos desenvolver uma solução 
 - [x] Diagrama de caso de uso
 - [x] EAP
 - [x] Documento de caso de uso
-- [ ] Diagrama de de classes
+- [x] Diagrama de de classes
 - [x] TAP
-- [ ] Diagrama de atividade
+- [x] Diagrama de atividade
 - [x] Diagrama de máquina de estado
-- [ ] Diagrama de sequência
+- [x] Diagrama de sequência
 - [ ] Prototipação de telas
-- [ ] Matriz de rastreabilidade
+- [x] Matriz de rastreabilidade
 - [ ] Documentação de portabilidade
-- [ ] Métricas
+- [x] Métricas
 - [ ] Proposta comercial
