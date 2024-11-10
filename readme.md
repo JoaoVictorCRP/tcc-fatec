@@ -16,8 +16,8 @@ Este é o repositório do nosso TG/TCC, onde buscamos desenvolver uma solução 
 - [x] Diagrama de atividade
 - [x] Diagrama de máquina de estado
 - [x] Diagrama de sequência
-- [ ] Prototipação de telas
+- [x] Prototipação de telas
 - [x] Matriz de rastreabilidade
-- [ ] Documentação de portabilidade
+- [x] Documentação de portabilidade
 - [x] Métricas
-- [ ] Proposta comercial
+- [x] Proposta comercial
