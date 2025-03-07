@@ -13,6 +13,16 @@ const style = StyleSheet.create({
     },
     "bold": {
         fontWeight:"bold"
+    },
+    "successButton": {
+        backgroundColor:"green",
+        color:"black",
+        borderRadius:30,
+        display:"flex",
+        alignItems:"center",
+        justifyContent:"center",
+        width:150,
+        height:40
     }
 })
 

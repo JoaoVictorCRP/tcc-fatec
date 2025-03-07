@@ -1,5 +1,5 @@
 import style from "@/styles/style";
-import { Button, Image, Text, View } from "react-native";
+import { Button, Image, Text, TouchableOpacity, View } from "react-native";
 
 export default function Index() {
 
@@ -7,6 +7,14 @@ export default function Index() {
     <View style={style.app}>
       {/* <Text style={style.text}>Edit app/index.tsx to edit this screen.</Text> */}
       
+      <Image 
+          source={require('@/assets/images/fichasmagicas-logo-v1.png')}
+          style={{
+            width:150,
+            height:100
+          }}
+        />
+
       <View style={{
         backgroundColor:"#EBEBEB",
         flex:1,
@@ -20,8 +28,8 @@ export default function Index() {
         <Image 
           source={require('@/assets/images/index-art.png')}
           style={{
-            width:250,
-            height:250
+            width:220,
+            height:260
           }}
         />
         
@@ -30,10 +38,16 @@ export default function Index() {
 
       </View>
 
-      <Button
-        title="ACESSAR"
-        color="#20EB7F"  
-      />
+      <View style={{
+        'paddingBottom':20,
+        'borderRadius':100,
+        'width':150,
+      }}>
+        <TouchableOpacity style={style.successButton}>
+          <Text style={{color:"#fff"}}>ACESSAR</Text>
+        </TouchableOpacity>
+      </View>
+
     </View>
   );
 }
